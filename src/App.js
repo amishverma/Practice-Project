@@ -24,7 +24,7 @@ const App = () => {
   }
   return (
     <>
-      <h1>Practice proejct</h1>
+      <h1>Practice project</h1>
       <Form saveData={userData}></Form>
       <ShowUser items={data}></ShowUser>
       {showModal && <Modal modalValue={closeModal}  ></Modal>}
