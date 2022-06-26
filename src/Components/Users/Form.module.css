@@ -1,0 +1,28 @@
+.form-wrapper{
+    background-color: white;
+    width: 30rem;
+    min-width: 350px;
+    padding: 4rem 0;
+    margin: 0 auto;
+}
+
+#name,#age{
+    display: block;
+    margin-top: 5px;
+    width: 80%;
+}
+
+.name-wrapper,.age-wrapper{
+    margin-bottom:15px;
+    font-weight: bold;
+    font-size: 1.1rem;
+    padding: 0 1rem;
+}
+
+.btn{
+    padding: 0.5rem 1.3rem;
+    background-color: blueviolet;
+    color:white;
+    margin-left: 15px;
+    border: none;
+}
